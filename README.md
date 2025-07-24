@@ -58,8 +58,8 @@ The dashboard includes:
 ## 🚀 Getting Started
 
 1. Clone the repo
-2. Run `data_cleaning_analysis.ipynb` for processing
-3. Open Tableau `.twbx` file to explore dashboards
+2. Run `OTT_analysis.ipynb` for processing
+3. Open Tableau `.twbx` file to explore dashboards or Click the link(https://public.tableau.com/views/OTTanalysisDashboard/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link) for intercetive dashboard
 
 ## 💡 Use Case
 
